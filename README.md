@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello Friend 👋
 
 ## I'm Ibnu Mahendra.
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at Semarang University.
+- 🤔 &nbsp; Nice to meet you.
+- 🎓 &nbsp; Studying Technical Information at Semarang University.
 
 
 <br>
