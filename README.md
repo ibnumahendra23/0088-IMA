@@ -4,8 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Nice to meet you.
-- 🎓 &nbsp; Studying Technical Information at Semarang University.
+- &nbsp; Studying Technical Information at Semarang University.
 
 
 <br>
