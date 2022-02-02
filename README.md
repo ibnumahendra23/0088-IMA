@@ -207,7 +207,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/ibnumahendra23/ibnumahendra23/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  @2022
 </p>
 
 
