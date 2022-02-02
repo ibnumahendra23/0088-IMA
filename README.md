@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## I'm Rahul Dhanola.
+## I'm Ibnu Mahendra.
 
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
+- 🎓 &nbsp; Studying Computer Science & Engineering at Semarang University.
 
 
 <br>
